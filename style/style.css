@@ -1,0 +1,110 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+h1{
+	text-align:center;
+} 
+.tcolor{
+	background-color:black;
+	padding:30px;
+}
+.color{
+	color:red;
+}
+.text{
+	padding:30px;
+}
+.bgcolor{
+	background-color:aqua;
+}
+.alignright{
+	text-align:right;
+	background-color:#DFFF00;
+}
+.alignleft{
+	text-align:left;
+	background-color:#FF7F50;
+}
+.aligncenter{
+	text-align:center;
+	background-color:#9FE2BF;
+}
+.alignjustify{
+	text-align:justify;
+	background-color:#40E0D0;
+}
+}
+.align{
+	background-color:#CCCCFF;
+}
+.overline{
+	text-decoration-line:overline;
+}
+.underline{
+	text-decoration-line:underline;
+}
+.linethrough{
+	text-decoration-line:line-through;
+}
+.decoration{
+	background-color:#CCCCFF;
+	padding:30px;
+}
+.dcolor{
+	text-decoration-line:underline;
+	text-decoration-color:red;
+}
+.dashed{
+	text-decoration-line:overline;
+	text-decoration-style:dashed;
+}
+.dotted{
+	text-decoration-line:overline;
+	text-decoration-style:dotted;
+}
+.doubleline{
+	text-decoration-line:overline;
+	text-decoration-style:doubleline;
+}
+.wavy{
+	text-decoration-line:overline;
+	text-decoration-style:wavy;
+}
+.dashed{
+	text-decoration-line:overline;
+	text-decoration-style:dashed;
+}
+.deccolor{
+	background-color:#9FE2BF;
+}
+.deccolor2{
+	background-color:#DAF7A6;
+}
+.dotpad{
+	padding:10px;
+}
+.thikness{
+	text-decoration-line:overline;
+	text-decoration-thickness:10px;
+	background-color:#DCED93;
+}
+.linevalue{
+	text-decoration:underline blue double 7px;
+	background-color:#B193ED;
+	padding:10px;
+}
+.uppercase{
+	text-transform:uppercase;
+	background-color:#b3ffff;
+}
+.lowercase{
+	text-transform:lowercase;
+	background-color:#b3ffff;
+}
+.capitalize{
+	text-transform:capitalize;
+	background-color:#b3ffff;
+}
